@@ -186,7 +186,7 @@
 <body class="antialiased">
 
     <!-- WhatsApp Float -->
-    <a href="https://wa.me/+212664329700?text=أهلاً%20أريد%20استفسار%20عن%20الخيم%20والسجادات"
+    <a href="https://wa.me/+212716012822?text=أهلاً%20أريد%20استفسار%20عن%20الخيم%20والسجادات"
        class="whatsapp-float bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:scale-110 transition-transform duration-300 flex items-center justify-center" target="_blank">
         <i class="fab fa-whatsapp text-2xl"></i>
     </a>
@@ -202,9 +202,10 @@
                 <span class="inline-block bg-[#8B0000]/10 text-[#8B0000] px-4 py-1 rounded-full text-sm font-semibold mb-4 border border-[#8B0000]/20">خيم وسجادات فاخرة | تأجير احترافي</span>
                 <h1 class="text-4xl md:text-6xl font-extrabold leading-tight mb-4 text-gray-900">أضف لمسة من <span class="text-[#D4AF37]">الأناقة</span> لمناسبتك</h1>
                 <p class="text-lg md:text-xl text-gray-600 max-w-xl mx-auto md:mx-0 mb-8">خيم متعددة المقاسات وسجادات فاخرة بأجود الخامات، تصميم عصري يليق بحفلات الزفاف، المؤتمرات، والمناسبات الخاصة.</p>
-                <div class="flex flex-wrap gap-4 justify-center md:justify-start">
+<div class="flex flex-wrap gap-4 justify-center md:justify-start">
                     <a href="#tents" class="btn-red-gold text-white font-bold px-7 py-3 rounded-full shadow-lg flex items-center gap-2 transition"><i class="fas fa-tent"></i> استكشف الخيم</a>
                     <a href="#carpets" class="border-2 border-[#8B0000] text-[#8B0000] px-7 py-3 rounded-full font-semibold hover:bg-[#8B0000] hover:text-white transition"><i class="fas fa-rug"></i> سجادات فاخرة</a>
+                    <a href="#khawami-curtains" class="border-2 border-[#D4AF37] text-[#D4AF37] px-7 py-3 rounded-full font-semibold hover:bg-[#D4AF37] hover:text-white transition flex items-center gap-2"><i class="fas fa-window-maximize"></i> ستائر خوامي</a>
                 </div>
             </div>
             <div class="relative w-72 h-72 md:w-96 md:h-96 animate-[zoomIn_0.8s]">
@@ -238,8 +239,8 @@
                     <div class="slider-container">
                         <img src="./image/20260403_155544.jpg" class="slider-image" alt="خيمة 3x3 واجهة">
                         <img src="./image/Gemini_Generated_Image_ii644uii644uii64.png" class="slider-image" alt="خيمة 3x3 جانب">
-                        <!-- <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=dalowa+3x3+(3)" class="slider-image" alt="خيمة 3x3 داخلي"> -->
-                        <!-- <img src="https://placehold.co/600x500/D4AF37/000000?text=dalowa+3x3+(4)" class="slider-image" alt="خيمة 3x3 سقف"> -->
+                        <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=dalowa+3x3+(3)" class="slider-image" alt="خيمة 3x3 داخلي">
+                        <img src="https://placehold.co/600x500/D4AF37/000000?text=dalowa+3x3+(4)" class="slider-image" alt="خيمة 3x3 سقف">
                     </div>
                     <div class="slider-nav prev"><i class="fas fa-chevron-right"></i></div>
                     <div class="slider-nav next"><i class="fas fa-chevron-left"></i></div>
@@ -270,8 +271,8 @@
                     <div class="slider-container">
                         <img src="./image/dalowa4x4BF.png" class="slider-image" alt="خيمة 4x4 واجهة">
                         <img src="./image/dalowa4x4RF.png" class="slider-image" alt="خيمة 4x4 داخلي">
-                        <!-- <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=dalowa+4x4+(3)" class="slider-image" alt="خيمة 4x4 خلفي"> -->
-                        <!-- <img src="https://placehold.co/600x500/D4AF37/000000?text=dalowa+4x4+(4)" class="slider-image" alt="خيمة 4x4 ديكور"> -->
+                        <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=dalowa+4x4+(3)" class="slider-image" alt="خيمة 4x4 خلفي">
+                        <img src="https://placehold.co/600x500/D4AF37/000000?text=dalowa+4x4+(4)" class="slider-image" alt="خيمة 4x4 ديكور">
                     </div>
                     <div class="slider-nav prev"><i class="fas fa-chevron-right"></i></div>
                     <div class="slider-nav next"><i class="fas fa-chevron-left"></i></div>
@@ -302,8 +303,8 @@
                     <div class="slider-container">
                         <img src="./image/dalowa5x5BF.png" class="slider-image" alt="خيمة 5x5 خارجي">
                         <img src="./image/dalowa5x5RF.png" class="slider-image" alt="خيمة 5x5 ديكور">
-                        <!-- <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=dalowa+5x5+(3)" class="slider-image" alt="خيمة 5x5 جانبي"> -->
-                        <!-- <img src="https://placehold.co/600x500/D4AF37/000000?text=dalowa+5x5+(4)" class="slider-image" alt="خيمة 5x5 تفاصيل"> -->
+                        <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=dalowa+5x5+(3)" class="slider-image" alt="خيمة 5x5 جانبي">
+                        <img src="https://placehold.co/600x500/D4AF37/000000?text=dalowa+5x5+(4)" class="slider-image" alt="خيمة 5x5 تفاصيل">
                     </div>
                     <div class="slider-nav prev"><i class="fas fa-chevron-right"></i></div>
                     <div class="slider-nav next"><i class="fas fa-chevron-left"></i></div>
@@ -332,10 +333,10 @@
                 <div class="relative image-slider h-72">
                     <div class="absolute top-3 right-3 z-20 badge-red px-3 py-1 rounded-full text-sm font-bold shadow-lg"><i class="fas fa-ruler-combined ml-1"></i> 6×6 م</div>
                     <div class="slider-container">
-                        <img src="./image/dalowa6x6SW.png" class="slider-image" alt="خيمة 6x6 مدخل">
-                        <!-- <img src="https://placehold.co/600x500/D4AF37/000000?text=dalowa+6x6+(2)" class="slider-image" alt="خيمة 6x6 جلوس"> -->
-                        <!-- <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=dalowa+6x6+(3)" class="slider-image" alt="خيمة 6x6 سقف"> -->
-                        <!-- <img src="https://placehold.co/600x500/D4AF37/000000?text=dalowa+6x6+(4)" class="slider-image" alt="خيمة 6x6 منصة"> -->
+                        <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=dalowa+6x6+(1)" class="slider-image" alt="خيمة 6x6 مدخل">
+                        <img src="https://placehold.co/600x500/D4AF37/000000?text=dalowa+6x6+(2)" class="slider-image" alt="خيمة 6x6 جلوس">
+                        <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=dalowa+6x6+(3)" class="slider-image" alt="خيمة 6x6 سقف">
+                        <img src="https://placehold.co/600x500/D4AF37/000000?text=dalowa+6x6+(4)" class="slider-image" alt="خيمة 6x6 منصة">
                     </div>
                     <div class="slider-nav prev"><i class="fas fa-chevron-right"></i></div>
                     <div class="slider-nav next"><i class="fas fa-chevron-left"></i></div>
@@ -364,10 +365,10 @@
                 <div class="relative image-slider h-72">
                     <div class="absolute top-3 right-3 z-20 badge-red px-3 py-1 rounded-full text-sm font-bold shadow-lg"><i class="fas fa-ruler-combined ml-1"></i> 6×12 م</div>
                     <div class="slider-container">
-                        <img src="./image/cader12x6SP.png" class="slider-image" alt="خيمة 6x12 طولي">
-                        <img src="./image/cader12x6SW.png" class="slider-image" alt="خيمة 6x12 قاعة">
-                        <!-- <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=cader+6x12+(3)" class="slider-image" alt="خيمة 6x12 مدخل"> -->
-                        <!-- <img src="https://placehold.co/600x500/D4AF37/000000?text=cader+6x12+(4)" class="slider-image" alt="خيمة 6x12 استقبال"> -->
+                        <img src="./image/cader12x6FR.png" class="slider-image" alt="خيمة 6x12 طولي">
+                        <img src="https://placehold.co/600x500/D4AF37/000000?text=cader+6x12+(2)" class="slider-image" alt="خيمة 6x12 قاعة">
+                        <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=cader+6x12+(3)" class="slider-image" alt="خيمة 6x12 مدخل">
+                        <img src="https://placehold.co/600x500/D4AF37/000000?text=cader+6x12+(4)" class="slider-image" alt="خيمة 6x12 استقبال">
                     </div>
                     <div class="slider-nav prev"><i class="fas fa-chevron-right"></i></div>
                     <div class="slider-nav next"><i class="fas fa-chevron-left"></i></div>
@@ -460,6 +461,180 @@
         </div>
     </section>
 
+    <!-- قسم ستائر خوامي -->
+    <section class="bg-gradient-to-b from-white to-gray-50 py-16 md:py-20" id="khawami-curtains">
+        <div class="container mx-auto px-5 md:px-8">
+            <div class="text-center mb-12">
+                <span class="text-[#D4AF37] font-semibold tracking-wide text-sm bg-[#8B0000]/10 px-4 py-1 rounded-full inline-block">ستائر خوامي فاخرة</span>
+                <h2 class="text-3xl md:text-5xl font-bold text-gray-900 mt-3">ستائر <span class="text-[#8B0000]">خوامي</span> بـ5 أنواع مميزة</h2>
+                <p class="text-gray-500 max-w-2xl mx-auto mt-4">ستائر عالية الجودة بأنواع متنوعة، مثالية للديكور والخصوصية في المناسبات والخيم</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+                <!-- ستائر نوع 1 -->
+                <div class="gallery-card rounded-2xl overflow-hidden shadow-lg card-border">
+                    <div class="relative image-slider h-72">
+                        <div class="absolute top-3 right-3 z-20 badge-red px-3 py-1 rounded-full text-sm font-bold shadow-lg"><i class="fas fa-layer-group ml-1"></i> نوع 1 - كلاسيك</div>
+                        <div class="slider-container">
+                            <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=ستائر+خوامي+كلاسيك+(1)" class="slider-image" alt="ستائر خوامي كلاسيك 1">
+                            <img src="https://placehold.co/600x500/D4AF37/000000?text=ستائر+خوامي+كلاسيك+(2)" class="slider-image" alt="ستائر خوامي كلاسيك 2">
+                            <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=ستائر+خوامي+كلاسيك+(3)" class="slider-image" alt="ستائر خوامي كلاسيك 3">
+                            <img src="https://placehold.co/600x500/D4AF37/000000?text=ستائر+خوامي+كلاسيك+(4)" class="slider-image" alt="ستائر خوامي كلاسيك 4">
+                        </div>
+                        <div class="slider-nav prev"><i class="fas fa-chevron-right"></i></div>
+                        <div class="slider-nav next"><i class="fas fa-chevron-left"></i></div>
+                        <div class="slider-dots"></div>
+                    </div>
+                    <div class="p-6 bg-white">
+                        <h3 class="text-2xl font-bold text-gray-800">ستائر خوامي - كلاسيك</h3>
+                        <p class="text-gray-500 mt-1">تصميم كلاسيكي أنيق يناسب جميع المناسبات.</p>
+                        <div class="flex flex-wrap gap-2 mt-4">
+                            <span class="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-xs"><i class="fas fa-water ml-1"></i> مقاومة للماء</span>
+                            <span class="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-xs"><i class="fas fa-tools"></i> سهلة التركيب</span>
+                        </div>
+                        <div class="mt-5 flex justify-between items-center">
+                            <div class="price-request px-3 py-2 rounded-lg bg-gradient-to-r from-amber-50 to-yellow-50">
+                                <span class="text-sm text-gray-500 block">استفسر عن السعر</span>
+                                <span class="text-xl font-bold text-[#8B0000]">تواصل معنا الآن</span>
+                                <span class="text-xs text-gray-400 block">حسب موقعك</span>
+                            </div>
+                            <a href="#contact" class="bg-[#8B0000] hover:bg-[#D4AF37] hover:text-black text-white font-bold px-5 py-2 rounded-full transition text-sm"><i class="fas fa-calendar-alt ml-1"></i> استفسر</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ستائر نوع 2 -->
+                <div class="gallery-card rounded-2xl overflow-hidden shadow-lg card-border">
+                    <div class="relative image-slider h-72">
+                        <div class="absolute top-3 right-3 z-20 badge-red px-3 py-1 rounded-full text-sm font-bold shadow-lg"><i class="fas fa-layer-group ml-1"></i> نوع 2 - عصرية</div>
+                        <div class="slider-container">
+                            <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=ستائر+خوامي+عصرية+(1)" class="slider-image" alt="ستائر خوامي عصرية 1">
+                            <img src="https://placehold.co/600x500/D4AF37/000000?text=ستائر+خوامي+عصرية+(2)" class="slider-image" alt="ستائر خوامي عصرية 2">
+                            <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=ستائر+خوامي+عصرية+(3)" class="slider-image" alt="ستائر خوامي عصرية 3">
+                            <img src="https://placehold.co/600x500/D4AF37/000000?text=ستائر+خوامي+عصرية+(4)" class="slider-image" alt="ستائر خوامي عصرية 4">
+                        </div>
+                        <div class="slider-nav prev"><i class="fas fa-chevron-right"></i></div>
+                        <div class="slider-nav next"><i class="fas fa-chevron-left"></i></div>
+                        <div class="slider-dots"></div>
+                    </div>
+                    <div class="p-6 bg-white">
+                        <h3 class="text-2xl font-bold text-gray-800">ستائر خوامي - عصرية</h3>
+                        <p class="text-gray-500 mt-1">تصميم عصري بألوان حديثة وخامات متميزة.</p>
+                        <div class="flex flex-wrap gap-2 mt-4">
+                            <span class="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-xs"><i class="fas fa-sun text-[#D4AF37] ml-1"></i> عازلة للضوء</span>
+                            <span class="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-xs"><i class="fas fa-expand-arrows-alt"></i> قابلة للطي</span>
+                        </div>
+                        <div class="mt-5 flex justify-between items-center">
+                            <div class="price-request px-3 py-2 rounded-lg bg-gradient-to-r from-amber-50 to-yellow-50">
+                                <span class="text-sm text-gray-500 block">استفسر عن السعر</span>
+                                <span class="text-xl font-bold text-[#8B0000]">تواصل معنا الآن</span>
+                                <span class="text-xs text-gray-400 block">حسب موقعك</span>
+                            </div>
+                            <a href="#contact" class="bg-[#8B0000] hover:bg-[#D4AF37] hover:text-black text-white font-bold px-5 py-2 rounded-full transition text-sm"><i class="fas fa-calendar-alt ml-1"></i> استفسر</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ستائر نوع 3 -->
+                <div class="gallery-card rounded-2xl overflow-hidden shadow-lg card-border">
+                    <div class="relative image-slider h-72">
+                        <div class="absolute top-3 right-3 z-20 badge-red px-3 py-1 rounded-full text-sm font-bold shadow-lg"><i class="fas fa-layer-group ml-1"></i> نوع 3 - فاخرة</div>
+                        <div class="slider-container">
+                            <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=ستائر+خوامي+فاخرة+(1)" class="slider-image" alt="ستائر خوامي فاخرة 1">
+                            <img src="https://placehold.co/600x500/D4AF37/000000?text=ستائر+خوامي+فاخرة+(2)" class="slider-image" alt="ستائر خوامي فاخرة 2">
+                            <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=ستائر+خوامي+فاخرة+(3)" class="slider-image" alt="ستائر خوامي فاخرة 3">
+                            <img src="https://placehold.co/600x500/D4AF37/000000?text=ستائر+خوامي+فاخرة+(4)" class="slider-image" alt="ستائر خوامي فاخرة 4">
+                        </div>
+                        <div class="slider-nav prev"><i class="fas fa-chevron-right"></i></div>
+                        <div class="slider-nav next"><i class="fas fa-chevron-left"></i></div>
+                        <div class="slider-dots"></div>
+                    </div>
+                    <div class="p-6 bg-white">
+                        <h3 class="text-2xl font-bold text-gray-800">ستائر خوامي - فاخرة</h3>
+                        <p class="text-gray-500 mt-1">خامات فاخرة لإطلالة ملكية.</p>
+                        <div class="flex flex-wrap gap-2 mt-4">
+                            <span class="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-xs"><i class="fas fa-fire"></i> مضادة للحرارة</span>
+                            <span class="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-xs"><i class="fas fa-magic"></i> ديكورية</span>
+                        </div>
+                        <div class="mt-5 flex justify-between items-center">
+                            <div class="price-request px-3 py-2 rounded-lg bg-gradient-to-r from-amber-50 to-yellow-50">
+                                <span class="text-sm text-gray-500 block">استفسر عن السعر</span>
+                                <span class="text-xl font-bold text-[#8B0000]">تواصل معنا الآن</span>
+                                <span class="text-xs text-gray-400 block">حسب موقعك</span>
+                            </div>
+                            <a href="#contact" class="bg-[#8B0000] hover:bg-[#D4AF37] hover:text-black text-white font-bold px-5 py-2 rounded-full transition text-sm"><i class="fas fa-calendar-alt ml-1"></i> استفسر</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ستائر نوع 4 -->
+                <div class="gallery-card rounded-2xl overflow-hidden shadow-lg card-border">
+                    <div class="relative image-slider h-72">
+                        <div class="absolute top-3 right-3 z-20 badge-red px-3 py-1 rounded-full text-sm font-bold shadow-lg"><i class="fas fa-layer-group ml-1"></i> نوع 4 - ملكية</div>
+                        <div class="slider-container">
+                            <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=ستائر+خوامي+ملكية+(1)" class="slider-image" alt="ستائر خوامي ملكية 1">
+                            <img src="https://placehold.co/600x500/D4AF37/000000?text=ستائر+خوامي+ملكية+(2)" class="slider-image" alt="ستائر خوامي ملكية 2">
+                            <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=ستائر+خوامي+ملكية+(3)" class="slider-image" alt="ستائر خوامي ملكية 3">
+                            <img src="https://placehold.co/600x500/D4AF37/000000?text=ستائر+خوامي+ملكية+(4)" class="slider-image" alt="ستائر خوامي ملكية 4">
+                        </div>
+                        <div class="slider-nav prev"><i class="fas fa-chevron-right"></i></div>
+                        <div class="slider-nav next"><i class="fas fa-chevron-left"></i></div>
+                        <div class="slider-dots"></div>
+                    </div>
+                    <div class="p-6 bg-white">
+                        <h3 class="text-2xl font-bold text-gray-800">ستائر خوامي - ملكية</h3>
+                        <p class="text-gray-500 mt-1">ستائر ملكية بتفاصيل دقيقة وخامات راقية.</p>
+                        <div class="flex flex-wrap gap-2 mt-4">
+                            <span class="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-xs"><i class="fas fa-shield-alt"></i> متينة</span>
+                            <span class="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-xs"><i class="fas fa-palette"></i> ملونة</span>
+                        </div>
+                        <div class="mt-5 flex justify-between items-center">
+                            <div class="price-request px-3 py-2 rounded-lg bg-gradient-to-r from-amber-50 to-yellow-50">
+                                <span class="text-sm text-gray-500 block">استفسر عن السعر</span>
+                                <span class="text-xl font-bold text-[#8B0000]">تواصل معنا الآن</span>
+                                <span class="text-xs text-gray-400 block">حسب موقعك</span>
+                            </div>
+                            <a href="#contact" class="bg-[#8B0000] hover:bg-[#D4AF37] hover:text-black text-white font-bold px-5 py-2 rounded-full transition text-sm"><i class="fas fa-calendar-alt ml-1"></i> استفسر</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ستائر نوع 5 -->
+                <div class="gallery-card rounded-2xl overflow-hidden shadow-lg card-border md:col-span-2 lg:col-span-1">
+                    <div class="relative image-slider h-72">
+                        <div class="absolute top-3 right-3 z-20 badge-red px-3 py-1 rounded-full text-sm font-bold shadow-lg"><i class="fas fa-layer-group ml-1"></i> نوع 5 - VIP</div>
+                        <div class="slider-container">
+                            <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=ستائر+خوامي+VIP+(1)" class="slider-image" alt="ستائر خوامي VIP 1">
+                            <img src="https://placehold.co/600x500/D4AF37/000000?text=ستائر+خوامي+VIP+(2)" class="slider-image" alt="ستائر خوامي VIP 2">
+                            <img src="https://placehold.co/600x500/8B0000/FFFFFF?text=ستائر+خوامي+VIP+(3)" class="slider-image" alt="ستائر خوامي VIP 3">
+                            <img src="https://placehold.co/600x500/D4AF37/000000?text=ستائر+خوامي+VIP+(4)" class="slider-image" alt="ستائر خوامي VIP 4">
+                        </div>
+                        <div class="slider-nav prev"><i class="fas fa-chevron-right"></i></div>
+                        <div class="slider-nav next"><i class="fas fa-chevron-left"></i></div>
+                        <div class="slider-dots"></div>
+                    </div>
+                    <div class="p-6 bg-white">
+                        <h3 class="text-2xl font-bold text-gray-800">ستائر خوامي - VIP</h3>
+                        <p class="text-gray-500 mt-1">الخيار الأفضل للمناسبات الخاصة جداً.</p>
+                        <div class="flex flex-wrap gap-2 mt-4">
+                            <span class="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-xs"><i class="fas fa-gem"></i> كريستال</span>
+                            <span class="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-xs"><i class="fas fa-lightbulb"></i> LED</span>
+                        </div>
+                        <div class="mt-5 flex justify-between items-center">
+                            <div class="price-request px-3 py-2 rounded-lg bg-gradient-to-r from-amber-50 to-yellow-50">
+                                <span class="text-sm text-gray-500 block">استفسر عن السعر</span>
+                                <span class="text-xl font-bold text-[#8B0000]">تواصل معنا الآن</span>
+                                <span class="text-xs text-gray-400 block">حسب موقعك</span>
+                            </div>
+                            <a href="#contact" class="bg-[#8B0000] hover:bg-[#D4AF37] hover:text-black text-white font-bold px-5 py-2 rounded-full transition text-sm"><i class="fas fa-calendar-alt ml-1"></i> استفسر</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
     <!-- معلومات الأسعار -->
     <section class="container mx-auto px-5 md:px-8 py-8">
         <div class="info-badge bg-[#FEF9E6] rounded-2xl p-6 flex flex-col md:flex-row justify-between items-center gap-4">
@@ -501,26 +676,26 @@
                             <div class="bg-[#8B0000]/10 p-3 rounded-full"><i class="fas fa-phone-alt text-2xl text-[#8B0000]"></i></div>
                             <div>
                                 <p class="text-sm text-gray-500">هاتف 1 / واتساب</p>
-                                <a href="tel:+212754386138" class="text-2xl font-bold text-gray-800 hover:text-[#8B0000] transition">0754386138</a>
+                                <a href="tel:+212716012822" class="text-2xl font-bold text-gray-800 hover:text-[#8B0000] transition">0716012822</a>
                             </div>
                         </div>
                         <div class="flex items-center gap-4 bg-white p-4 rounded-2xl shadow-sm border border-gray-200">
                             <div class="bg-[#8B0000]/10 p-3 rounded-full"><i class="fas fa-mobile-alt text-2xl text-[#8B0000]"></i></div>
                             <div>
                                 <p class="text-sm text-gray-500">هاتف 2 (احتياطي)</p>
-                                <a href="tel:212664329700" class="text-2xl font-bold text-gray-800 hover:text-[#8B0000] transition">0664329700</a>
+                                <a href="tel:0716012822" class="text-2xl font-bold text-gray-800 hover:text-[#8B0000] transition">0716012822</a>
                             </div>
                         </div>
                         <div class="flex items-center gap-4 bg-white p-4 rounded-2xl shadow-sm border border-gray-200">
                             <div class="bg-[#8B0000]/10 p-3 rounded-full"><i class="fab fa-whatsapp text-2xl text-[#25D366]"></i></div>
                             <div>
                                 <p class="text-sm text-gray-500">واتساب سريع</p>
-                                <a href="https://wa.me/+212664329700?text=أهلاً%20أريد%20استفسار%20عن%20أسعار%20الخيم%20والسجادات" class="text-2xl font-bold text-gray-800 hover:text-[#8B0000] transition">0664329700</a>
+                                <a href="https://wa.me/+212716012822?text=أهلاً%20أريد%20استفسار%20عن%20أسعار%20الخيم%20والسجادات" class="text-2xl font-bold text-gray-800 hover:text-[#8B0000] transition">0716012822</a>
                             </div>
                         </div>
                     </div>
                     <div class="mt-8 flex flex-wrap gap-4">
-                        <a href="tel:+212664329700" class="btn-red-gold text-white font-bold px-6 py-3 rounded-full inline-flex items-center gap-2 shadow-md"><i class="fas fa-phone"></i> اتصل الآن</a>
+                        <a href="tel:+212716012822" class="btn-red-gold text-white font-bold px-6 py-3 rounded-full inline-flex items-center gap-2 shadow-md"><i class="fas fa-phone"></i> اتصل الآن</a>
                         <!-- <a href="https://wa.me/+212716012822?text=أهلاً%20أريد%20استفسار%20عن%20أسعار%20الخيم%20والسجادات" class="border-2 border-[#8B0000] text-[#8B0000] px-6 py-3 rounded-full hover:bg-[#8B0000] hover:text-white transition">طلب تسعيرة</a> -->
                     </div>
                 </div>
@@ -545,7 +720,7 @@
                 <i class="fab fa-tiktok hover:text-[#8B0000] cursor-pointer transition"></i>
             </div>
             <p class="text-sm">© 2025 خيم الإيجار - جميع الحقوق محفوظة</p>
-            <p class="text-xs mt-2 opacity-60">للحجز والاستفسار: 0664329700 | 0664329700</p>
+            <p class="text-xs mt-2 opacity-60">للحجز والاستفسار: 0716012822 | 0716012822</p>
             <p class="text-xs mt-1 text-gray-400">* خدمة في جميع أنحاء المغرب - تواصل للحجز</p>
         </div>
     </footer>
